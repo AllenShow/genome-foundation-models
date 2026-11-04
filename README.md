@@ -80,6 +80,18 @@ If you want a quick path from classic models to the latest systems, start here:
 - [SPACE](https://arxiv.org/abs/2506.01833v1)
 - [GENERATOR](https://arxiv.org/abs/2502.07272v5)
 
+## 2025 frontier list
+
+The most current frontier models in this repo are:
+
+- [Evo 2](https://evo2.com)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
+- [GenBench](https://arxiv.org/abs/2406.01627v2)
+- [Metro](https://arxiv.org/abs/2503.20475v1)
+
 ## Notes
 
 This repository intentionally tracks a practical reading list with direct links to papers and project pages. For the newest papers, it is worth checking arXiv, BioRxiv, and each model's official project or code repository.
