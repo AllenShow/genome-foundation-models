@@ -20,6 +20,18 @@ This page is the link-oriented companion to the research index in the README. It
 - [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1) — Single-cell gene network foundation model
 - [Caduceus](https://arxiv.org/abs/2403.03234) — Bidirectional equivariant long-range DNA modeling
 
+## Latest frontier additions
+
+These entries are intentionally kept as direct paper or project links for faster review and easier research follow-up:
+
+- [Evo 2](https://evo2.com)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
+- [GenBench](https://arxiv.org/abs/2406.01627v2)
+- [Metro](https://arxiv.org/abs/2503.20475v1)
+
 ## Notes
 
 This page intentionally keeps the most valuable entries as direct links so readers can jump quickly from the overview to the official references and papers.
