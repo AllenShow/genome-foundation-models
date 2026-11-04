@@ -61,6 +61,11 @@ If you want a quick path from classic models to the latest systems:
 
 This repository intentionally tracks a practical reading list rather than a full publication database. For the newest papers, it is worth checking arXiv, BioRxiv, and the official GitHub repository of each model.
 
+## Current focus
+
+This repository is being updated to reflect the latest 2024-2025 genomic foundation models, including generative, benchmark, and multi-species sequence models.
+
+
 ## Update status
 
 This repository is actively tracking the newest genome foundation models, with emphasis on 2024-2025 papers and official links.
