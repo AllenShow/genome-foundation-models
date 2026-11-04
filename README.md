@@ -61,6 +61,12 @@ This repository keeps a link-based, current overview of the most important genom
 - [SPACE](https://arxiv.org/abs/2506.01833v1) — genomic profile predictor with foundation-model scale
 - [GENERATOR](https://arxiv.org/abs/2502.07272v5) — long-context generative genomic foundation model
 - [dnaGrinder](https://arxiv.org/abs/2409.15697v1) — lightweight, high-capacity genomic foundation model
+- [Genos](https://github.com/BGI-HangzhouAI/Genos) — human genome foundation model by BGI-HangzhouAI
+- [Carbon](https://github.com/huggingface/carbon) — genomic foundation model family from Hugging Face
+- [Carbon-500M](https://huggingface.co/HuggingFaceBio/Carbon-500M) — Carbon family 500M variant
+- [Carbon-3B](https://huggingface.co/HuggingFaceBio/Carbon-3B) — Carbon family 3B variant
+- [Carbon-8B](https://huggingface.co/HuggingFaceBio/Carbon-8B) — Carbon family 8B variant
+- [Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X) — Carbon-X midtraining and SFT/RL model
 - [Caduceus](https://arxiv.org/abs/2403.03234) — bidirectional equivariant long-range DNA modeling
 - [GPN](https://arxiv.org/abs/2308.15329) — genome pretraining network for DNA sequence understanding
 - [scGPT](https://github.com/bowang-lab/scGPT) — single-cell generative pretraining model

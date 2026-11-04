@@ -9,6 +9,12 @@ This page is the link-oriented companion to the research index in the README. It
 - [SPACE](https://arxiv.org/abs/2506.01833v1) — Genomic profile predictor with foundation-model scale
 - [GENERATOR](https://arxiv.org/abs/2502.07272v5) — Long-context generative genomic foundation model
 - [dnaGrinder](https://arxiv.org/abs/2409.15697v1) — Lightweight but high-capacity genomic foundation model
+- [Genos](https://github.com/BGI-HangzhouAI/Genos) — Human genome foundation model from BGI-HangzhouAI
+- [Carbon](https://github.com/huggingface/carbon) — Genomic foundation model family from Hugging Face
+- [Carbon-500M](https://huggingface.co/HuggingFaceBio/Carbon-500M) — Carbon family 500M model
+- [Carbon-3B](https://huggingface.co/HuggingFaceBio/Carbon-3B) — Carbon family 3B model
+- [Carbon-8B](https://huggingface.co/HuggingFaceBio/Carbon-8B) — Carbon family 8B model
+- [Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X) — Carbon-X model with midtraining and SFT/RL recipes
 - [GenBench](https://arxiv.org/abs/2406.01627v2) — Benchmarking suite for genomic foundation models
 - [Metro](https://arxiv.org/abs/2503.20475v1) — Scalable benchmark for DNA foundation models
 
