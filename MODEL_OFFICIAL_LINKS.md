@@ -19,6 +19,11 @@ This page is the link-oriented companion to the research index in the README. It
 - [HyenaDNA](https://arxiv.org/abs/2306.15794) — Long-range genomic sequence modeling at single nucleotide resolution
 - [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1) — Single-cell gene network foundation model
 - [Caduceus](https://arxiv.org/abs/2403.03234) — Bidirectional equivariant long-range DNA modeling
+- [GPN](https://arxiv.org/abs/2308.15329) — Genome pretraining network for sequence understanding
+- [BERTax](https://arxiv.org/abs/2206.02713) — Taxonomic DNA sequence classification foundation model
+- [GENA-LM](https://arxiv.org/abs/2304.01657) — General genomic language model family for DNA tasks
+- [scGPT](https://github.com/bowang-lab/scGPT) — Single-cell generative pretraining model
+- [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) — DNA sequence-to-function prediction architecture
 
 ## Latest frontier additions
 
