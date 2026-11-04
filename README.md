@@ -64,3 +64,8 @@ This repository intentionally tracks a practical reading list rather than a full
 ## License
 
 This repository is released under the MIT license unless otherwise noted.
+
+
+## Recent update
+
+This repository is being expanded with a stronger 2024-2025 coverage list and notes for model reading order.
