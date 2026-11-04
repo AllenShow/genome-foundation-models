@@ -111,6 +111,10 @@ This repository is actively tracking the newest genome foundation models, with e
 - [GenBench](https://arxiv.org/abs/2406.01627v2)
 - [Nucleotide Transformer](https://arxiv.org/abs/2203.06125)
 
+## Official model links
+
+For a direct reference list of the key models tracked in this repository, see [MODEL_OFFICIAL_LINKS.md](./MODEL_OFFICIAL_LINKS.md).
+
 ## 2025 highlights
 
 The most visible 2025 advances in the genomic foundation model space include:
