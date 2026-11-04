@@ -10,16 +10,19 @@ Genomic foundation models are moving from short sequence encoders to long-contex
 
 ### 2025
 
-1. JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model  
+1. Evo 2: Frontier genomic foundation model and long-context DNA modeling  
+   Project / model references: https://evo2.com
+
+2. JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model  
    arXiv: https://arxiv.org/abs/2505.17257v4
 
-2. SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model  
+3. SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model  
    arXiv: https://arxiv.org/abs/2506.01833v1
 
-3. GENERator: A Long-Context Generative Genomic Foundation Model  
+4. GENERator: A Long-Context Generative Genomic Foundation Model  
    arXiv: https://arxiv.org/abs/2502.07272v5
 
-4. dnaGrinder: a lightweight and high-capacity genomic foundation model  
+5. dnaGrinder: a lightweight and high-capacity genomic foundation model  
    arXiv: https://arxiv.org/abs/2409.15697v1
 
 ### 2024
