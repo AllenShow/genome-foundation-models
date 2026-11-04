@@ -115,6 +115,18 @@ This repository is actively tracking the newest genome foundation models, with e
 
 For a direct reference list of the key models tracked in this repository, see [MODEL_OFFICIAL_LINKS.md](./MODEL_OFFICIAL_LINKS.md).
 
+## Latest frontier additions
+
+These are the most current direct-reference entries tracked in this repository and kept as clickable links rather than plain text names:
+
+- [Evo 2](https://evo2.com)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
+- [GenBench](https://arxiv.org/abs/2406.01627v2)
+- [Metro](https://arxiv.org/abs/2503.20475v1)
+
 ## 2025 highlights
 
 The most visible 2025 advances in the genomic foundation model space include:
