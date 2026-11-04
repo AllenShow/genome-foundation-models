@@ -77,6 +77,17 @@ This repository is actively tracking the newest genome foundation models, with e
 - GenBench
 - Nucleotide Transformer
 
+## 2025 highlights
+
+The most visible 2025 advances in the genomic foundation model space include:
+
+- JanusDNA: a bidirectional hybrid DNA foundation model
+- SPACE: a genomic profile predictor with foundation-model scale
+- GENERator: long-context generative genomic modeling
+- dnaGrinder: a lightweight but powerful genomic foundation model
+- GenBench and Metro: benchmark-driven evaluation frameworks
+
+
 ## License
 
 This repository is released under the MIT license unless otherwise noted.
