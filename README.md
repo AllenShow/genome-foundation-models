@@ -66,7 +66,7 @@ This repository keeps a link-based, current overview of the most important genom
 - [Carbon-500M](https://huggingface.co/HuggingFaceBio/Carbon-500M) — Carbon family 500M variant
 - [Carbon-3B](https://huggingface.co/HuggingFaceBio/Carbon-3B) — Carbon family 3B variant
 - [Carbon-8B](https://huggingface.co/HuggingFaceBio/Carbon-8B) — Carbon family 8B variant
-- [Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X) — Carbon-X midtraining and SFT/RL model
+- [Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X) — Carbon-X model with midtraining and SFT/RL recipes
 - [Caduceus](https://arxiv.org/abs/2403.03234) — bidirectional equivariant long-range DNA modeling
 - [GPN](https://arxiv.org/abs/2308.15329) — genome pretraining network for DNA sequence understanding
 - [scGPT](https://github.com/bowang-lab/scGPT) — single-cell generative pretraining model
@@ -105,6 +105,70 @@ This repository keeps a link-based, current overview of the most important genom
 - [GENERATOR](https://arxiv.org/abs/2502.07272v5)
 - [Genos](https://github.com/BGI-HangzhouAI/Genos)
 - [Carbon](https://github.com/huggingface/carbon)
+
+This repository keeps a link-based, current overview of the most important genomic foundation models, benchmark suites, and closely related DNA sequence modeling references. The list below is intentionally link-based and expands well beyond a minimal curated summary.
+
+### Frontier and emerging models
+
+- [Evo 2](https://www.evo2.com/) — frontier long-context genomic foundation model
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4) — bidirectional hybrid DNA foundation model
+- [SPACE](https://arxiv.org/abs/2506.01833v1) — genomic profile predictor with foundation-model scale
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5) — long-context generative genomic foundation model
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1) — lightweight, high-capacity genomic foundation model
+- [Caduceus](https://arxiv.org/abs/2403.03234) — bidirectional equivariant long-range DNA modeling
+- [GPN](https://arxiv.org/abs/2308.15329) — genome pretraining network for DNA sequence understanding
+- [scGPT](https://github.com/bowang-lab/scGPT) — single-cell generative pretraining model
+- [BERTax](https://arxiv.org/abs/2206.02713) — taxonomic DNA sequence classification model
+- [GENA-LM](https://arxiv.org/abs/2304.01657) — general genomic language model family
+- [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) — sequence-to-function DNA model
+- [Borzoi](https://sites.google.com/view/borzoi) — long-range genomic sequence model from DeepMind
+
+### Core foundational DNA models
+
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125) — human genomics foundation model
+- [DNABERT](https://arxiv.org/abs/2106.06630) — early DNA language model
+- [DNABERT-2](https://arxiv.org/abs/2306.15006) — multi-species genome foundation model
+- [HyenaDNA](https://arxiv.org/abs/2306.15794) — long-range genomic sequence modeling at single nucleotide resolution
+- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1) — single-cell gene network foundation model
+- [DeepSEA](https://github.com/kipoi/DeepSea) — sequence-based regulatory prediction model
+- [DeepVariant](https://github.com/google/deepvariant) — variant calling model with sequence-based representations
+
+### Benchmarks and evaluation frameworks
+
+- [GenBench](https://arxiv.org/abs/2406.01627v2) — genomic model benchmarking suite
+- [Metro](https://arxiv.org/abs/2503.20475v1) — scalable benchmark for DNA foundation models
+- [Genome Understanding Benchmark](https://arxiv.org/abs/2304.01657) — benchmark context for GENA-LM style models
+
+### Representative reading order
+
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125)
+- [DNABERT-2](https://arxiv.org/abs/2306.15006)
+- [HyenaDNA](https://arxiv.org/abs/2306.15794)
+- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1)
+- [GPN](https://arxiv.org/abs/2308.15329)
+- [Caduceus](https://arxiv.org/abs/2403.03234)
+- [Evo 2](https://www.evo2.com/)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+
+- [Evo 2](https://evo2.com) — Frontier genomic foundation model and long-context DNA modeling
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4) — Bidirectional hybrid DNA foundation model
+- [SPACE](https://arxiv.org/abs/2506.01833v1) — Genomic profile predictor with foundation-model scale
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5) — Long-context generative genomic foundation model
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1) — Lightweight but high-capacity genomic foundation model
+- [Caduceus](https://arxiv.org/abs/2403.03234) — Bi-directional equivariant long-range DNA modeling
+- [GenBench](https://arxiv.org/abs/2406.01627v2) — Benchmarking suite for genomic foundation models
+- [Metro](https://arxiv.org/abs/2503.20475v1) — Scalable benchmark for DNA foundation models
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125) — Human genomics foundation model and evaluation suite
+- [DNABERT-2](https://arxiv.org/abs/2306.15006) — Multi-species genome foundation model and benchmark
+- [HyenaDNA](https://arxiv.org/abs/2306.15794) — Long-range genomic sequence modeling at single nucleotide resolution
+- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1) — Single-cell gene network foundation model
+- [GPN](https://arxiv.org/abs/2308.15329) — Genome pretraining network for sequence understanding
+- [BERTax](https://arxiv.org/abs/2206.02713) — Taxonomic DNA sequence classification foundation model
+- [GENA-LM](https://arxiv.org/abs/2304.01657) — General genomic language model family for DNA tasks
+- [scGPT](https://github.com/bowang-lab/scGPT) — Single-cell generative pretraining model
+- [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) — DNA sequence-to-function prediction architecture
 
 ## Selected reading order
 
