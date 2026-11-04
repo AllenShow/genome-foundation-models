@@ -58,7 +58,42 @@ If you want a quick path from classic models to the latest systems:
 - DNABERT-2
 - HyenaDNA
 - Geneformer
-- Evo 2 / JanusDNA / SPACE / GENERator
+- Caduceus
+- Evo 2
+- JanusDNA
+- SPACE
+- GENERator
+
+## Complete model set tracked in this repo
+
+This repository explicitly tracks the following representative genomic foundation models and related benchmark papers:
+
+- Nucleotide Transformer
+- DNABERT-2
+- HyenaDNA
+- Geneformer
+- Caduceus
+- GPN
+- Evo 2
+- JanusDNA
+- SPACE
+- GENERator
+- dnaGrinder
+- GenBench
+- Metro
+- scGPT
+
+## 2025 frontier list
+
+The most current frontier models in this repo are:
+
+- Evo 2
+- JanusDNA
+- SPACE
+- GENERator
+- dnaGrinder
+- GenBench
+- Metro
 
 ## Notes
 
