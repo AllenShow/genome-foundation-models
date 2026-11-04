@@ -50,80 +50,76 @@ Genomic foundation models are moving from short sequence encoders to long-contex
 11. Nucleotide Transformer: Building and evaluating robust foundation models for human genomics  
    arXiv: https://arxiv.org/abs/2203.06125
 
-## Selected reading order
-
-If you want a quick path from classic models to the latest systems:
-
-- Nucleotide Transformer
-- DNABERT-2
-- HyenaDNA
-- Geneformer
-- Caduceus
-- Evo 2
-- JanusDNA
-- SPACE
-- GENERator
-
 ## Complete model set tracked in this repo
 
-This repository explicitly tracks the following representative genomic foundation models and related benchmark papers:
+This repository keeps a link-based, current overview of the most important genomic foundation models and benchmark resources. Every item below points to the official paper or project page rather than a plain text list.
 
-- Nucleotide Transformer
-- DNABERT-2
-- HyenaDNA
-- Geneformer
-- Caduceus
-- GPN
-- Evo 2
-- JanusDNA
-- SPACE
-- GENERator
-- dnaGrinder
-- GenBench
-- Metro
-- scGPT
+- [Evo 2](https://evo2.com) — Frontier genomic foundation model and long-context DNA modeling
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4) — Bidirectional hybrid DNA foundation model
+- [SPACE](https://arxiv.org/abs/2506.01833v1) — Genomic profile predictor with foundation-model scale
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5) — Long-context generative genomic foundation model
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1) — Lightweight but high-capacity genomic foundation model
+- [Caduceus](https://arxiv.org/abs/2403.03234) — Bi-directional equivariant long-range DNA modeling
+- [GenBench](https://arxiv.org/abs/2406.01627v2) — Benchmarking suite for genomic foundation models
+- [Metro](https://arxiv.org/abs/2503.20475v1) — Scalable benchmark for DNA foundation models
+- [DNABERT-2](https://arxiv.org/abs/2306.15006) — Multi-species genome foundation model and benchmark
+- [HyenaDNA](https://arxiv.org/abs/2306.15794) — Long-range genomic sequence modeling at single nucleotide resolution
+- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1) — Single-cell gene network foundation model
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125) — Human genomics foundation model and evaluation suite
+
+## Selected reading order
+
+If you want a quick path from classic models to the latest systems, start here:
+
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125)
+- [DNABERT-2](https://arxiv.org/abs/2306.15006)
+- [HyenaDNA](https://arxiv.org/abs/2306.15794)
+- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1)
+- [Evo 2](https://evo2.com)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
 
 ## 2025 frontier list
 
 The most current frontier models in this repo are:
 
-- Evo 2
-- JanusDNA
-- SPACE
-- GENERator
-- dnaGrinder
-- GenBench
-- Metro
+- [Evo 2](https://evo2.com)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
+- [GenBench](https://arxiv.org/abs/2406.01627v2)
+- [Metro](https://arxiv.org/abs/2503.20475v1)
 
 ## Notes
 
-This repository intentionally tracks a practical reading list rather than a full publication database. For the newest papers, it is worth checking arXiv, BioRxiv, and the official GitHub repository of each model.
+This repository intentionally tracks a practical reading list with direct links to papers and project pages. For the newest papers, it is worth checking arXiv, BioRxiv, and each model's official project or code repository.
 
 ## Current focus
 
 This repository is being updated to reflect the latest 2024-2025 genomic foundation models, including generative, benchmark, and multi-species sequence models.
 
-
 ## Update status
 
 This repository is actively tracking the newest genome foundation models, with emphasis on 2024-2025 papers and official links.
 
-- JanusDNA
-- SPACE
-- GENERator
-- dnaGrinder
-- GenBench
-- Nucleotide Transformer
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
+- [GenBench](https://arxiv.org/abs/2406.01627v2)
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125)
 
 ## 2025 highlights
 
 The most visible 2025 advances in the genomic foundation model space include:
 
-- JanusDNA: a bidirectional hybrid DNA foundation model
-- SPACE: a genomic profile predictor with foundation-model scale
-- GENERator: long-context generative genomic modeling
-- dnaGrinder: a lightweight but powerful genomic foundation model
-- GenBench and Metro: benchmark-driven evaluation frameworks
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4): a bidirectional hybrid DNA foundation model
+- [SPACE](https://arxiv.org/abs/2506.01833v1): a genomic profile predictor with foundation-model scale
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5): long-context generative genomic modeling
+- [dnaGrinder](https://arxiv.org/abs/2409.15697v1): a lightweight but powerful genomic foundation model
+- [GenBench](https://arxiv.org/abs/2406.01627v2) and [Metro](https://arxiv.org/abs/2503.20475v1): benchmark-driven evaluation frameworks
 
 
 ## License
