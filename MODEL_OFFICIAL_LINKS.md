@@ -1,60 +1,52 @@
 # Official model links and project references
 
-This page is the link-oriented companion to the research index in the README. It keeps the repository focused on direct paper and project references instead of plain-text model lists.
+This page keeps a direct-link index of representative genome/genomic foundation models.
 
-## Frontier 2025 models
+## Frontier and latest models
 
-- [Evo 2](https://evo2.com) — Frontier genomic foundation model and long-context DNA modeling
-- [JanusDNA](https://arxiv.org/abs/2505.17257v4) — Bidirectional hybrid DNA foundation model
-- [SPACE](https://arxiv.org/abs/2506.01833v1) — Genomic profile predictor with foundation-model scale
-- [GENERATOR](https://arxiv.org/abs/2502.07272v5) — Long-context generative genomic foundation model
-- [dnaGrinder](https://arxiv.org/abs/2409.15697v1) — Lightweight but high-capacity genomic foundation model
-- [Genos](https://github.com/BGI-HangzhouAI/Genos) — Human genome foundation model from BGI-HangzhouAI
-- [Carbon](https://github.com/huggingface/carbon) — Genomic foundation model family from Hugging Face
-- [Carbon-500M](https://huggingface.co/HuggingFaceBio/Carbon-500M) — Carbon family 500M model
-- [Carbon-3B](https://huggingface.co/HuggingFaceBio/Carbon-3B) — Carbon family 3B model
-- [Carbon-8B](https://huggingface.co/HuggingFaceBio/Carbon-8B) — Carbon family 8B model
-- [Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X) — Carbon-X model with midtraining and SFT/RL recipes
-- [GenBench](https://arxiv.org/abs/2406.01627v2) — Benchmarking suite for genomic foundation models
-- [Metro](https://arxiv.org/abs/2503.20475v1) — Scalable benchmark for DNA foundation models
+- [Evo 2](https://evo2.com)
+- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
+- [SPACE](https://arxiv.org/abs/2506.01833v1)
+- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
+- [Gengram paper](https://arxiv.org/abs/2601.22203v1)
+- [Gengram checkpoint](https://huggingface.co/ZhejiangLab/Gengram)
+- [Genos code (for Gengram)](https://github.com/zhejianglab/Genos)
+- [Gene42](https://arxiv.org/abs/2503.16565v1)
+- [Omni-DNA](https://arxiv.org/abs/2502.03499v1)
+- [JEPA-DNA](https://arxiv.org/abs/2602.17162v4)
+
+## Carbon and Genos family links
+
+- [Genos (BGI)](https://github.com/BGI-HangzhouAI/Genos)
+- [Carbon](https://github.com/huggingface/carbon)
+- [Carbon-500M](https://huggingface.co/HuggingFaceBio/Carbon-500M)
+- [Carbon-3B](https://huggingface.co/HuggingFaceBio/Carbon-3B)
+- [Carbon-8B](https://huggingface.co/HuggingFaceBio/Carbon-8B)
+- [Carbon-X](https://huggingface.co/HuggingFaceBio/Carbon-X)
 
 ## Representative genomic foundation models
 
-- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125) — Human genomics foundation model and evaluation suite
-- [DNABERT-2](https://arxiv.org/abs/2306.15006) — Efficient multi-species genome foundation model and benchmark
-- [HyenaDNA](https://arxiv.org/abs/2306.15794) — Long-range genomic sequence modeling at single nucleotide resolution
-- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1) — Single-cell gene network foundation model
-- [Caduceus](https://arxiv.org/abs/2403.03234) — Bidirectional equivariant long-range DNA modeling
-- [GPN](https://arxiv.org/abs/2308.15329) — Genome pretraining network for sequence understanding
-- [BERTax](https://arxiv.org/abs/2206.02713) — Taxonomic DNA sequence classification foundation model
-- [GENA-LM](https://arxiv.org/abs/2304.01657) — General genomic language model family for DNA tasks
-- [scGPT](https://github.com/bowang-lab/scGPT) — Single-cell generative pretraining model
-- [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer) — DNA sequence-to-function prediction architecture
+- [Nucleotide Transformer](https://arxiv.org/abs/2203.06125)
+- [DNABERT](https://arxiv.org/abs/2106.06630)
+- [DNABERT-2](https://arxiv.org/abs/2306.15006)
+- [HyenaDNA](https://arxiv.org/abs/2306.15794)
+- [Caduceus](https://arxiv.org/abs/2403.03234)
+- [Geneformer](https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1)
+- [GPN](https://arxiv.org/abs/2308.15329)
+- [GENA-LM](https://arxiv.org/abs/2304.01657)
+- [scGPT](https://github.com/bowang-lab/scGPT)
+- [Enformer](https://github.com/google-deepmind/deepmind-research/tree/master/enformer)
+- [Borzoi](https://sites.google.com/view/borzoi)
 
-## Latest frontier additions
+## Task-focused model links
 
-These entries are intentionally kept as direct paper or project links for faster review and easier research follow-up:
+- [PathoLM](https://arxiv.org/abs/2406.13133)
+- [DYNA](https://arxiv.org/abs/2406.00164)
+- [BERTax](https://arxiv.org/abs/2206.02713)
 
-- [Evo 2](https://evo2.com)
-- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
-- [SPACE](https://arxiv.org/abs/2506.01833v1)
-- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
-- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
+## Benchmark and evaluation links
+
 - [GenBench](https://arxiv.org/abs/2406.01627v2)
 - [Metro](https://arxiv.org/abs/2503.20475v1)
-
-## Latest frontier additions
-
-These entries are intentionally kept as direct paper or project links for faster review and easier research follow-up:
-
-- [Evo 2](https://evo2.com)
-- [JanusDNA](https://arxiv.org/abs/2505.17257v4)
-- [SPACE](https://arxiv.org/abs/2506.01833v1)
-- [GENERATOR](https://arxiv.org/abs/2502.07272v5)
-- [dnaGrinder](https://arxiv.org/abs/2409.15697v1)
-- [GenBench](https://arxiv.org/abs/2406.01627v2)
-- [Metro](https://arxiv.org/abs/2503.20475v1)
-
-## Notes
-
-This page intentionally keeps the most valuable entries as direct links so readers can jump quickly from the overview to the official references and papers.
+- [OmniGenBench](https://arxiv.org/abs/2505.14402v1)
+- [GENEB](https://arxiv.org/abs/2606.04525v4)
